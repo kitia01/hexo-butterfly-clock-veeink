@@ -4,9 +4,7 @@
 >  这是基于[hoochanlon/hexo-butterfly-clock-remake](https://github.com/hoochanlon/hexo-butterfly-clock-remake) 项目修改而来的版本，新增高德地图 IP 定位支持
 >  适用于 **Hexo + Butterfly 主题**，提供实时天气、时间、城市自动定位等功能。
 
-<details>
-<summary>程序逻辑与优化部分</summary>
-程序逻辑：
+### 功能特性
 
 1. 以和风天气API为执行基础。
 1. 通过IP定位API拿到城市位置，通过城市位置拿到和风天气location id
